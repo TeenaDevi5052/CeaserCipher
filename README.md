@@ -1,2 +1,21 @@
-# CeaserCipher
-This project is a Caesar Cipher encryption and decryption tool implemented in Python. The Caesar Cipher is one of the simplest and most widely known encryption techniques, where each letter in the plaintext is shifted by a fixed number of positions in the alphabet.
+# 🔐 Caesar Cipher in Python
+
+A simple interactive Caesar Cipher program written in Python.  
+Encrypt and decrypt messages by shifting letters in the alphabet.
+
+---
+
+## 🎮 Features
+- Encode messages with a custom shift value.
+- Decode messages back to their original form.
+- Handles spaces, punctuation, and numbers without breaking.
+- Interactive loop: continue encrypting/decrypting until you choose to exit.
+- Beginner-friendly implementation using basic Python concepts.
+
+---
+
+## 🖥️ How to Run
+1. Save the script as `caesar_cipher.py`.
+2. Run it in your terminal:
+   ```bash
+   python caesar_cipher.py
